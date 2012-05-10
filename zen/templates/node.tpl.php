@@ -1,6 +1,6 @@
 <?php
 /**
-  @file
+ * @file
  * Theme implementation to display a node.
  *
  * Available variables:
